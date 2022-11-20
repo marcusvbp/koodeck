@@ -1,6 +1,6 @@
 # koodeck
 
-A new Flutter project.
+Este projeto é apenas um desenho rápido de interface que surgiu apenas para testar alguns conceitos e possibilidades
 
 ## Getting Started
 
